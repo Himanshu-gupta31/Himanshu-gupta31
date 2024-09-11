@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Himanshu-gupta31">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Himanshu+Gupta;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Himanshu+Gupta;Full Stack Developer;" alt="Typing SVG" />
   </a>
 </p>
 
