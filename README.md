@@ -29,15 +29,15 @@
 🌟 My goal is to continually learn, grow, and collaborate on innovative projects that make a meaningful impact. Let's connect and explore how we can create something extraordinary together!
 
 <p align="center">
-  <a href="mailto:akshatgirdhar05@gmail.com">
+  <a href="mailto:gupta.him31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
  
-  <a href="https://www.linkedin.com/in/akshat-girdhar-56a848206/" target="_blank">
+  <a href="https://www.linkedin.com/in/himanshu-gupta-431a0722a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@akshatgirdhar05" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-007785?style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
+  <a href="https://x.com/Himanshuu3112" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
   </a>
 </p>
 
