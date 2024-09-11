@@ -17,9 +17,9 @@
 |Title | Technologies|
 |--|--|
 | [Video Verse](https://videoverse-two.vercel.app/signin) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)| ![Cloudinary](https://img.shields.io/badge/cloudinary-black?style=flat-square&logo=cloudinary)
-| [Todo App](https://github.com/akshatg5/ToDo-App) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) 
+| [Todo App](https://todo-app-one-lovat.vercel.app/) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) 
 | [Music Academy](https://music-nest.vercel.app/) |  ![NextJs](https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel) 
-| [AI Trip Planner](https://mediabyte.vercel.app/) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![Gemini](https://img.shields.io/badge/Gemini-black?style=flat-square&logo=google) 
+| [AI Trip Planner]() |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![Gemini](https://img.shields.io/badge/Gemini-black?style=flat-square&logo=google) 
 
 </td></tr>
 </table>
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Himanshuu3112" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
+    <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=medium&logoColor=black" alt="Twiiter" />
   </a>
 </p>
 
