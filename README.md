@@ -20,6 +20,7 @@
 | [Todo App](https://todo-app-one-lovat.vercel.app/) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) 
 | [Music Academy](https://music-nest.vercel.app/) |  ![NextJs](https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel) 
 | [AI Trip Planner]() |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![Gemini](https://img.shields.io/badge/Gemini-black?style=flat-square&logo=google) 
+| [PlayPals](https://playpals-alpha.vercel.app/) |  ![NextJs](https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel) ![Postgress](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) 
 
 </td></tr>
 </table>
